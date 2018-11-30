@@ -12,12 +12,12 @@
     max-width: 550px;
 }
 .modal-arteref-pop-up h1{
-    color: white;
+    color: #ed008f;
 
     text-align: center;
 }
 .modal-arteref-pop-up p{
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 .modal-arteref-pop-up label{
     color: white;
@@ -32,12 +32,6 @@
     background-color: white;
     border-radius: 50%;
 }
-.rm_form_container label{
-    color: white!important;
-}
-rm_form_container input{
-    background-color: white!important;
-}
-form-style2 input[type=text]{
-    background-color: white!important;
+.sib_signup_box_inside_2 label{
+    font-weight: 0!important;
 }
