@@ -12,9 +12,7 @@ jQuery(document).ready(function($){
             return;
         }
         else{
-            setTimeout( function(){
-                $('#modal_subscribeform').modal('show');
-            }, 10000);
+            $('#modal_subscribeform').modal('show');
         }
         sessionStorage.setItem("modal_subscribeform", true);
     }
