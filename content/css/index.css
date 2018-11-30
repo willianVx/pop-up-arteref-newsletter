@@ -1,0 +1,43 @@
+.modal{
+    display: block;
+    z-index: 2000;
+    top: 200px;
+}
+.rm_form_container{
+    width: 100%!important;
+}
+.modal-arteref-pop-up{
+    background-color: black;
+    color: white;
+    max-width: 550px;
+}
+.modal-arteref-pop-up h1{
+    color: white;
+
+    text-align: center;
+}
+.modal-arteref-pop-up p{
+    font-size: 1.4em;
+}
+.modal-arteref-pop-up label{
+    color: white;
+}
+#close_pop_up_arteref{
+    padding: 0;
+    cursor: pointer;
+    border: 0;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: white;
+    border-radius: 50%;
+}
+.rm_form_container label{
+    color: white!important;
+}
+rm_form_container input{
+    background-color: white!important;
+}
+form-style2 input[type=text]{
+    background-color: white!important;
+}
