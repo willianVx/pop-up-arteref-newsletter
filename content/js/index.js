@@ -1,5 +1,4 @@
 jQuery(document).ready(function($){
-    $('#modal_subscribeform').modal('show');
     if (typeof(Storage) !== "undefined") {
         // Code for localStorage/sessionStorage.
         modal_local_storage();
