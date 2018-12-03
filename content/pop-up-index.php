@@ -5,7 +5,7 @@ function pop_up_index(){
             <div class="modal-dialog" role="document">
                 <div class="modal-content modal-arteref-pop-up">
                 <div class="modal-header">
-                    <h1 class="modal-title">Relatório mundial de negócios online de arte</h1>
+                    <h1 class="modal-title">Quer saber como a pessoas que compraram arte em 2017-2018?</h1>
                     <button type="button" id="close_pop_up_arteref" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                     </button>
