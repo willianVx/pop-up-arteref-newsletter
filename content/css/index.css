@@ -3,16 +3,19 @@
     z-index: 2000;
     top: 200px;
 }
+.modal-header {
+    border-bottom: 2px solid white!important;
+}
 .rm_form_container{
     width: 100%!important;
 }
 .modal-arteref-pop-up{
-    background-color: black;
-    color: white;
+    background-color: #e2e0e1;
+    color: rgb(87, 87, 87);
     max-width: 550px;
 }
 .modal-arteref-pop-up h1{
-    color: #ed008f;
+    color: #f158b3;
 
     text-align: center;
 }
@@ -32,4 +35,10 @@
     top: 0px;
     background-color: white;
     border-radius: 50%;
+}
+.img_ebook img{
+    max-height: 386px;
+}
+.arteref_modal_content{
+    display: flex;
 }
