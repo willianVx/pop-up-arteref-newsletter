@@ -4,7 +4,7 @@
     top: 200px;
 }
 .modal-header {
-    border-bottom: 2px solid white!important;
+    border-bottom: 0px solid white!important;
 }
 .rm_form_container{
     width: 100%!important;
@@ -12,9 +12,9 @@
 .modal-arteref-pop-up{
     background-color: #e2e0e1;
     color: rgb(87, 87, 87);
-    max-width: 550px;
+    /*max-width: 550px;*/
 }
-.modal-arteref-pop-up h1{
+.modal-arteref-pop-up h3{
     color: #f158b3;
     text-align: center;
 }
@@ -23,7 +23,10 @@
 }
 .modal-arteref-pop-up label{
     color: rgb(87, 87, 87);
-    font-weight: 0!important;
+    font-weight: 100;
+}
+.modal-arteref-pop-up input{
+    border-radius: 12px;
 }
 #close_pop_up_arteref{
     padding: 0;
@@ -36,12 +39,17 @@
     border-radius: 50%;
 }
 .img_ebook img{
-    max-height: 386px;
+    max-height: 300px;
 }
 .arteref_modal_content{
     display: flex;
+    justify-content: center;
 }
 .sib_signup_box_inside_2{
     position: relative;
     top: 35px;
+}
+.arteref_modal_content_form{
+    position: relative;
+    width: 50%;
 }
