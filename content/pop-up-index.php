@@ -2,7 +2,7 @@
 function pop_up_index(){
     ?>
         <div class="modal fade" id="modal_subscribeform" tabindex="-1" role="dialog">
-            <div class="modal-dialog" role="document">
+            <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content modal-arteref-pop-up">
 
                     <div class="modal-header">

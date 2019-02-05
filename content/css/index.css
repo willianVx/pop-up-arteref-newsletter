@@ -16,14 +16,13 @@
 }
 .modal-arteref-pop-up h1{
     color: #f158b3;
-
     text-align: center;
 }
 .modal-arteref-pop-up p{
     font-size: 1.3em;
 }
 .modal-arteref-pop-up label{
-    color: white;
+    color: rgb(87, 87, 87);
     font-weight: 0!important;
 }
 #close_pop_up_arteref{
@@ -41,4 +40,8 @@
 }
 .arteref_modal_content{
     display: flex;
+}
+.sib_signup_box_inside_2{
+    position: relative;
+    top: 35px;
 }
