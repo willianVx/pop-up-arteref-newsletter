@@ -13,8 +13,11 @@ jQuery(document).ready(function($){
             return;
         }
         else{
-            $('#modal_subscribeform').show();
-            $('#modal_subscribeform').modal('show');
+            setTimeout(() => {
+                $('#modal_subscribeform').show();
+                $('#modal_subscribeform').modal('show');
+            }, 4000);
+
         }
         sessionStorage.setItem("modal_subscribeform", true);
     }
